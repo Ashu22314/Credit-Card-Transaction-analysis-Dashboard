@@ -15,7 +15,7 @@ If you want, I can also give you a much stronger GitHub README (with sections li
 
 yeah
 
-Here is a complete professional GitHub README you can use for your project. This format looks much stronger to recruiters and hiring managers. 📊
+Here is a complete professional GitHub README you can use for your project. This format looks much stronger to recruiters and hiring managers. 
 
 Credit Card Transaction Analysis Dashboard
 Project Overview
