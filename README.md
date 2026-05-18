@@ -1,81 +1,38 @@
-# Credit-Card-Transaction-analysis-Dashboard
-Credit Card Transaction Analysis Dashboard
+📊 Credit Card Transaction Analysis Dashboard
+📌 Overview
+This Credit Card Transaction Analysis Dashboard provides a comprehensive analysis of credit card transactions, revenue, and customer demographics. Built using Power BI, PostgreSQL, and Excel, it enables data-driven decision-making for financial institutions by identifying spending patterns, customer segmentation, and transaction trends.
 
-This project analyzes credit card transaction data to uncover spending patterns, customer behavior, and key financial insights. The goal of the project is to transform raw transaction data into meaningful visual insights that can support business decision-making.
+🔥 Key Insights
+Total Revenue: $55.3M | Total Interest: $7.8M | Total Transactions: 656K
+Top Revenue Categories:
+Bills: $14M
+Entertainment: $10M
+Fuel & Grocery: $9M each
+Revenue by Card Type:
+Blue Card: $46.1M
+Gold Card: $2.4M
+Platinum Card: $1.1M
+Transaction Trends:
+Highest Revenue Quarter: Q3 ($14.2M)
+Preferred Payment Mode: Swipe ($35M) over Chip & Online
+📌 Dashboards
+1️⃣ Credit Card Transaction Report
+<img width="1433" height="836" alt="image" src="https://github.com/user-attachments/assets/c1215d1e-2ed8-412c-baaa-55859f72bd9d" />
 
-Using data analysis techniques and interactive dashboards, the project highlights trends in customer spending, transaction frequency, and category-wise expenditure. It also focuses on identifying high-value customers and understanding how different factors influence credit card usage.
 
-Key analysis includes transaction trends over time, spending distribution across categories, and customer segmentation based on transaction behavior. These insights help in understanding customer preferences and improving financial strategies.
+2️⃣ Credit Card Customer Report
+<img width="1422" height="833" alt="image" src="https://github.com/user-attachments/assets/a231ea08-6744-4321-9135-7f3771440a25" />
 
-Tools and technologies used in this project include SQL for data querying and transformation, Power BI for dashboard visualization, and Excel for initial data exploration and cleaning.
 
-This project demonstrates practical data analysis skills including data cleaning, querying, KPI creation, and interactive dashboard development.
-
-If you want, I can also give you a much stronger GitHub README (with sections like Features, KPIs, Dashboard Preview, Insights) that makes your project look 10x more professional for recruiters.
-
-yeah
-
-Here is a complete professional GitHub README you can use for your project. This format looks much stronger to recruiters and hiring managers. 
-
-Credit Card Transaction Analysis Dashboard
-Project Overview
-
-This project focuses on analyzing credit card transaction data to uncover spending patterns, customer behavior, and key financial insights. The goal is to transform raw transaction data into meaningful insights through data analysis and visualization.
-
-By using analytical techniques and interactive dashboards, the project helps identify customer spending habits, transaction trends, and category-wise expenditure. These insights can support businesses in understanding customer preferences and improving financial decision-making.
-
-Objectives
-
-Analyze credit card transaction data to identify spending patterns.
-
-Understand customer behavior based on transaction history.
-
-Identify high-value customers and transaction trends.
-
-Create an interactive dashboard for easy visualization of insights.
-
-Tools & Technologies Used
-
-SQL – Data extraction, querying, and analysis
-
-Power BI – Dashboard creation and data visualization
-
+🛠️ Tools & Technologies Used
+Power BI – Data visualization and dashboard creation
+PostgreSQL – Data storage and query execution
 Excel – Data cleaning and preprocessing
+🎯 Insights & Business Impact
+✔ Helps in understanding customer spending behavior and segmentation.
 
-Key Features
+✔ Identifies top-performing customer groups based on job, education, and demographics.
 
-Interactive dashboard showing transaction insights
+✔ Enables better resource allocation for marketing and customer acquisition strategies.
 
-Category-wise spending analysis
-
-Customer segmentation based on transaction behavior
-
-Monthly and yearly transaction trends
-
-Key financial KPIs for business insights
-
-Key KPIs Analyzed
-
-Total Transaction Amount
-
-Total Number of Transactions
-
-Average Transaction Value
-
-Spending by Category
-
-Customer Transaction Frequency
-
-Monthly Transaction Trends
-
-Dashboard Insights
-
-Some of the important insights derived from the analysis include:
-
-Identification of high-spending customer segments.
-
-Understanding which categories have the highest transaction volumes.
-
-Detection of seasonal trends in customer spending.
-
-Analysis of transaction frequency and average spending patterns.
+✔ Improves financial decision-making by tracking revenue trends.
